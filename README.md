@@ -3,7 +3,7 @@ This repository stores the code for shell radiomics extraction and analysis
 
 Step 1: shell_worldmap_visualize_model.py generates shells from tumor and visulize the shell contours.
 
-         tumor_visualize.m is a Matlab code for shell contour visualization.
+tumor_visualize.m is a Matlab code for shell contour visualization.
 
 Step 2: feature_extraction_shell.py extracts radiomics features from shells and save to excel format.
 
